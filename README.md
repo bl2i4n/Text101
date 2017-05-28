@@ -4,6 +4,4 @@
 
 In this project we used C# to get used to Unity and create a basic Text based game.
 
-You are trapped in a prison and need to escape.
-
 Follow the on screen instructions and use your logic to escape out of prison!
