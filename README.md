@@ -1,5 +1,9 @@
 # Text101
 
-![Alt text](/Assets/prison word.pngraw=true "Optional Title")
+![Alt text](https://github.com/bl2i4n/Text101/blob/master/Assets/prison%20word.png "Prison Word")
 
-Following tutorial from Udemy.com's Unity game development
+In this project we used C# to get used to Unity and create a basic Text based game.
+
+You are trapped in a prison and need to escape.
+
+Follow the on screen instructions and use your logic to escape out of prison!
